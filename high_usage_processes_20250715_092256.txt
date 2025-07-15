@@ -1,0 +1,76 @@
+High Usage Processes - Tue Jul 15 09:23:00 AM CEST 2025
+Criteria: CPU > 40% OR RSS > 512000 KB
+========================================
+
+Process Index: 343
+  PID: 9287
+  PPID: 7179
+  User: quantium
+  CPU: 4.5%
+  Memory: 2.0%
+  RSS: 676184 KB
+  Command: /usr/bin/warp-terminal
+
+Process Index: 360
+  PID: 14339
+  PPID: 14259
+  User: quantium
+  CPU: 3.6%
+  Memory: 1.7%
+  RSS: 560616 KB
+  Command: /tmp/.mount_cursoriAGpGP/us
+
+Process Index: 383
+  PID: 15157
+  PPID: 14431
+  User: quantium
+  CPU: 1.1%
+  Memory: 3.5%
+  RSS: 1155616 KB
+  Command: /home/quantium/.cursor/exte
+
+Process Index: 398
+  PID: 46638
+  PPID: 7179
+  User: quantium
+  CPU: 10.7%
+  Memory: 2.4%
+  RSS: 809752 KB
+  Command: /opt/google/chrome/chrome
+
+Process Index: 416
+  PID: 47822
+  PPID: 46670
+  User: quantium
+  CPU: 4.9%
+  Memory: 1.6%
+  RSS: 524144 KB
+  Command: /opt/google/chrome/chrome -
+
+Process Index: 418
+  PID: 48000
+  PPID: 46670
+  User: quantium
+  CPU: 6.2%
+  Memory: 1.8%
+  RSS: 618240 KB
+  Command: /opt/google/chrome/chrome -
+
+Process Index: 428
+  PID: 131165
+  PPID: 46670
+  User: quantium
+  CPU: 2.2%
+  Memory: 1.9%
+  RSS: 634436 KB
+  Command: /opt/google/chrome/chrome -
+
+Process Index: 431
+  PID: 134452
+  PPID: 46670
+  User: quantium
+  CPU: 2.3%
+  Memory: 1.6%
+  RSS: 538664 KB
+  Command: /opt/google/chrome/chrome -
+
