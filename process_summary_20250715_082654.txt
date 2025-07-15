@@ -1,0 +1,24 @@
+Process Analysis Summary - Tue Jul 15 08:26:58 AM CEST 2025
+====================================
+
+Total processes analyzed: 426
+High usage processes found: 2
+
+Array sizes:
+- pids[]: 426
+- ppids[]: 426
+- users[]: 426
+- commands[]: 426
+- cpu_usage[]: 426
+- mem_usage[]: 426
+- rss_values[]: 426
+- high_usage_processes[]: 2
+
+High usage criteria:
+- CPU usage > 40% OR
+- RSS memory > 512000 KB (≈500 MB)
+
+Files created:
+- Raw process data: process_raw_20250715_082654.txt
+- High usage processes: high_usage_processes_20250715_082654.txt
+- Summary: process_summary_20250715_082654.txt
